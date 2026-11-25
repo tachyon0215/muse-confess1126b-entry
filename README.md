@@ -1,4 +1,4 @@
-# muse-confess\1126b-entry
+# muse-confess1126b-entry
 
 Entry for the make.fun competition [Confess Your Worst Moment](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef).
 
@@ -17,5 +17,5 @@ Three candidates were drafted and compared against the judge brief in the compet
 MIT - see [LICENSE](LICENSE).
 
 [![make.fun · u-nayyy-confess-your-worst-moment-841ae7ef](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
-[![rank](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/tachyon0215/muse-confess\1126b-entry/rank.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
-[![reward](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/tachyon0215/muse-confess\1126b-entry/reward.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
+[![rank](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/tachyon0215/muse-confess1126b-entry/rank.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
+[![reward](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/tachyon0215/muse-confess1126b-entry/reward.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
